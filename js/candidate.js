@@ -41,8 +41,6 @@ Candidate.prototype.getInfo= function(){
   if (this.firstName === "Lisa" && this.lastName === "Buch"){
     this.lovesDogs = true;
     this.spiritDog = "Saint Bernard"
-  }else{
-    alert("hmm, maybe this person isn't as good a fit");
   }
 }
 
